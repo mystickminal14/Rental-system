@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rental/static/css/main.e8578d85.css",
+    "main.js": "/rental/static/js/main.092925b3.js",
+    "static/media/r2.jpg": "/rental/static/media/r2.84ead091d43c03cc9fe8.jpg",
+    "static/media/r5.jpg": "/rental/static/media/r5.e9c2dbcbc4ae12e5918f.jpg",
+    "static/media/r3.jpg": "/rental/static/media/r3.71fada03542af0772607.jpg",
+    "static/media/r4.jpg": "/rental/static/media/r4.9e33838f8bc452591b3c.jpg",
+    "static/media/ig.jpg": "/rental/static/media/ig.0d0cbfb39f9db4adbb88.jpg",
+    "static/media/r1.jpg": "/rental/static/media/r1.b9502ae8a552031db207.jpg",
+    "static/media/r6.jpg": "/rental/static/media/r6.77bd6ffe3bef2e7472df.jpg",
+    "static/media/revicons.eot": "/rental/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/rental/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/CROP.png": "/rental/static/media/CROP.20b19a62a6c033023140.png",
+    "static/media/revicons.woff": "/rental/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/rental/index.html",
+    "main.e8578d85.css.map": "/rental/static/css/main.e8578d85.css.map",
+    "main.092925b3.js.map": "/rental/static/js/main.092925b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8578d85.css",
+    "static/js/main.092925b3.js"
+  ]
+}
